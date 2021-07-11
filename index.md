@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- This website is for reading notes on what I learn in Code 201
 - List
 
 1. Numbered
