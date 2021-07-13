@@ -1,4 +1,5 @@
 ## Reading notes from the Duckett HTML book:
+[Go back to Reading Notes home](README.md)
 
 <b>Chapter 2: “Text” (pp.40-61) Summary:</b>
 - HTML elements are used to describe the structure of the pages such as headings, subheadings, paragraphs, etc.
