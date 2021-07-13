@@ -1,4 +1,4 @@
-## Reading notes from the Duckett HTML book:
+## Read 01: Introductory HTML and JavaScript:
 [Go back to Reading Notes home](README.md)
 
 <b>Introduction Summary: (pg. 2-11)</b>
