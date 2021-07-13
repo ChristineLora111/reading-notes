@@ -26,10 +26,9 @@ the meaning of acronyms, etc.
   Declarations sit inside curly brackets and each are made up of 2 parts: a PROPERTY and a VALUE, separated by a colon. 
   You can specify several properties in one declaration.
   
-  h1, h2, h3 {
-             font-family: Arial:
-             colors:     yellow;}
-             ^^PROPERTY   ^^VALUE
+
+       PROPERTIES: Font-family and color                VALUE: Arial and yellow
+             
   
   This rule indicates that all h1, h2 and h3 elements should be in the Arial font, in yellow.
   
