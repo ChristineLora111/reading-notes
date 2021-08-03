@@ -1,4 +1,4 @@
-## Read 06: Tables, Functions, Methods, and Objects:
+## Read 07: Tables, Functions, Methods, and Objects:
 [Go back to Reading Notes home](README.md)
 
 <b><h3>Chapter 6: “Tables” (pp.126-145)</h3></b>
