@@ -12,3 +12,4 @@
 - [Read 06: JS Object Literals; The DOM](class-06.md) 
 - [Read 07: Tables, Functions, Methods, and Objects](class-07.md)
 - [Read 08: Layouts (Review)](class-08.md) 
+- [Read 09: Forms & JS Events](class-09.md) 
