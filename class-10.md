@@ -1,4 +1,4 @@
-## Read 10: Forms and JS Events:
+## Read 10: JS Error Handling & Debugging:
 [Go back to Reading Notes home](README.md)
 
 <b><h3>JavaScript book, Ch. 10, “Error Handling & Debugging”</h3></b>
