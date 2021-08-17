@@ -15,3 +15,4 @@
 - [Read 09: Forms & JS Events](class-09.md) 
 - [Read 10: Error Handling & JS Debugging](class-10.md)
 - [Read 11: Audio, Video, Images](class-11.md)
+- [Read 12: Charts & Canvas](class-12.md)
