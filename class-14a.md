@@ -1,9 +1,5 @@
-## Read 13: Local Storage:
+## Read: 14a - CSS Transforms, Transitions, and Animations:
 [Go back to Reading Notes home](README.md)
-
-<b><h3>What Google Learned From Its Quest to Build the Perfect Team</h3></b>
-nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?auth=link-dismiss-google1tap
-
 
 <b><h3>CSS Transforms:</h3></b>
 - The transform property comes in two different settings, two-dimensional and three-dimensional. Each of these come with their own individual properties and values.
