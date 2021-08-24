@@ -16,3 +16,6 @@
 - [Read 10: Error Handling & JS Debugging](class-10.md)
 - [Read 11: Audio, Video, Images](class-11.md)
 - [Read 12: Charts & Canvas](class-12.md)
+- [Read 13: Local Storage](class-13.md)
+- [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)
+- [Read: 14b - What Google Learned About Teams](class-14b.md)
